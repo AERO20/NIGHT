@@ -1,0 +1,18 @@
+Hello team 1!
+
+Congratulations on getting the code for this file!
+Now you have to find FOUR coloured cards using your map. Your team is dark blue.
+
+Communicate these grid references to your recon team (MRF16A2), one at a time.
+Card 1: 012013
+Card 2: 037039
+Card 3: 052031
+Card 4: 059030
+
+Once you have all of these cards, you must arrange them like dominoes.
+For example:
+
+S12345A A12345B B12345C C12345E
+
+This will give you a 20-number long code, for the example above it would be:
+12345123451234512345
